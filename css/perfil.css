@@ -28,24 +28,22 @@ body{
 
 
 .controls {
-	width: 70%;
+	width: 100%;
 	text-align: center;
-	background:gray;
-	margin-bottom: 20px;
-	font-family: 'calibri';
-	color: black;
-	padding: 18px;
+	
 }
-
+.form-register .botons {
+	width: 100%;
+	background: lightgrey;
+	padding: 5px;
+}
 
 
 .form-register img{
 	justify-content: center;
 	align-items: center;
 	align-content: center;
-	height: 100hv;
+	height: 120hv;
 	margin-left: auto;
 	margin-right: auto;
-	border-image-width: 50%;
-	border:solid lightgrey;
 }
