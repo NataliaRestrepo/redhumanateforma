@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.form-register{
+	background: white;
+	width: 400px;
+	padding: 30px;
+	margin: auto;
+	margin-top: 50px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color: black;
+	text-align: center;
+
+}
+
+
+.form-register h1 {
+	font-size: 15px;
+	margin-bottom: 10px;
+	text-align: left;
+	
+	
+}
+
+
+.controls {
+	width: 70%;
+	text-align: center;
+	background:gray;
+	margin-bottom: 20px;
+	font-family: 'calibri';
+	color: black;
+	padding: 18px;
+}
+
+
+
+.form-register img{
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	height: 100hv;
+	margin-left: auto;
+	margin-right: auto;
+	border-image-width: 50%;
+	border:solid lightgrey;
+}
